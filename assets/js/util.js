@@ -156,6 +156,7 @@
 							if (!href || href == '#' || href == '' || href == '#' + id)
 								return;
 
+
 							// Cancel original event.
 								event.preventDefault();
 								event.stopPropagation();
@@ -168,6 +169,7 @@
 
 									if (target == '_blank')
 										window.open(href);
+										
 									else
 										window.location.href = href;
 
@@ -257,6 +259,7 @@
 			// Event: Hide panel if a child anchor tag pointing to its ID is clicked.
 				$this.on('click', 'a[href="#' + id + '"]', function(event) {
 
+				
 					event.preventDefault();
 					event.stopPropagation();
 
@@ -268,12 +271,14 @@
 
 			// Event: Hide panel on body click/tap.
 				$body.on('click touchend', function(event) {
+					
 					$this._hide(event);
 				});
 
 			// Event: Toggle.
 				$body.on('click', 'a[href="#' + id + '"]', function(event) {
 
+					
 					event.preventDefault();
 					event.stopPropagation();
 

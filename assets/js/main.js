@@ -33,7 +33,9 @@
 			.addClass('scrolly')
 			.on('click', function(e) {
 
+				
 				var $this = $(this);
+				
 
 				// External link? Bail.
 					if ($this.attr('href').charAt(0) != '#')

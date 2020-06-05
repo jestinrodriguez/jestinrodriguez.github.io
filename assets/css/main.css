@@ -1937,6 +1937,13 @@ input, select, textarea {
 
 /* Button */
 
+
+		#btn-close  {
+			position: relative;
+			right: 50px;
+			
+		}
+
 	input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
