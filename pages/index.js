@@ -5,6 +5,7 @@
 import ParticlesContainer from '../components/ParticlesContainer';
 import ProjectBtn from '../components/ProjectsBtn';
 import Avatar from '../components/Avatar';
+import WorkSlider from '../../components/WorkSlider';
 
 import {motion} from 'framer-motion'
 
