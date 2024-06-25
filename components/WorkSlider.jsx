@@ -35,28 +35,28 @@ const workData = {
           youtube: 'https://www.youtube.com/watch?v=u2XV3brv0uQ'
         },
         {
-          title: 'Krypt - Web 3.0',
-          path: './krypt.png',
-          link: 'https://krypt-jestinrodriguez.vercel.app/'
-        },
-        {
           title: 'GeniusAI',
           path: './GeniusAi.png',
           link: 'https://www.youtube.com/watch?v=8MIGMJvDFOc'
         },
+        {
+          title: 'Evently',
+          path: './evently.png',
+          link: 'https://evently-jet-seven.vercel.app/'
+        }
       ],
     },
     {
       images: [
         {
+          title: 'Apple Iphone 15 Pro',
+          path: './japple.png',
+          link: 'https://j-apple.vercel.app/'
+        },
+        {
           title: 'Medium Blog Clone',
           path: './medium.png',
           link: 'https://medium-1j9kcv4xr-jestinrodriguez.vercel.app/'
-        },
-        {
-          title: 'Coinbase - Web 3.0',
-          path: './coinbases.png',
-          link: 'https://coinbase-jest.vercel.app/'
         },
         {
           title: 'Spotify Clone',
@@ -67,7 +67,7 @@ const workData = {
           title: 'Disney Plus Clone',
           path: './disney+.png',
           link: 'https://disney-clone-ef31e.web.app/'
-        },
+        }
       ],
     },
     {
@@ -83,15 +83,15 @@ const workData = {
           link: 'https://jest-tesla-clone.netlify.app/#'
         },
         {
-          title: 'Clubhouse Clone',
-          path: './clubhouse.png',
-          link: 'https://clubhouse-clone-jest.netlify.app/'
+          title: 'Krypt - Web 3.0',
+          path: './krypt.png',
+          link: 'https://krypt-jestinrodriguez.vercel.app/'
         },
         {
-          title: 'Promptopia',
-          path: './promptopia.png',
-          link: 'https://promptopia-ri21oeiqe-jestinrodriguez.vercel.app/'
-        },
+          title: 'Coinbase - Web 3.0',
+          path: './coinbases.png',
+          link: 'https://coinbase-jest.vercel.app/'
+        }
       ],
     },
     {
@@ -115,7 +115,7 @@ const workData = {
           title: 'Rock-Paper-Scissors',
           path: './rockpaperscissors.png',
           link: 'https://jestinrodriguez.github.io/rockpaperscissorsgame/'
-        },
+        }
       ],
     },
     {
@@ -125,6 +125,16 @@ const workData = {
           path: './bankist.png',
           link: 'https://jestinrodriguez.github.io/bankist/'
         },
+        {
+          title: 'Pig Game',
+          path: './Piggame.png',
+          link: 'https://jestinrodriguez.github.io/pig-game/'
+        },
+        {
+          title: 'Rock-Paper-Scissors',
+          path: './rockpaperscissors.png',
+          link: 'https://jestinrodriguez.github.io/rockpaperscissorsgame/'
+        }
       ],
     },
   ],
