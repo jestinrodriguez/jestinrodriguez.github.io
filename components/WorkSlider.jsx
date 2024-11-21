@@ -64,9 +64,9 @@ const workData = {
           link: 'https://www.youtube.com/watch?v=60y8ABXWUbs'
         },
         {
-          title: 'Disney Plus Clone',
-          path: './disney+.png',
-          link: 'https://disney-clone-ef31e.web.app/'
+          title: 'Story Teller AI',
+          path: './StoryTellerAI.png',
+          link: 'https://www.youtube.com/watch?v=F1xSzr4Frro'
         }
       ],
     },
@@ -97,6 +97,11 @@ const workData = {
     {
       images: [
         {
+          title: 'Disney Plus Clone',
+          path: './disney+.png',
+          link: 'https://disney-clone-ef31e.web.app/'
+        },
+        {
           title: 'Forkify',
           path: './forkify.png',
           link: 'https://forkify-jestin.netlify.app/'
@@ -111,30 +116,20 @@ const workData = {
           path: './Piggame.png',
           link: 'https://jestinrodriguez.github.io/pig-game/'
         },
-        {
-          title: 'Rock-Paper-Scissors',
-          path: './rockpaperscissors.png',
-          link: 'https://jestinrodriguez.github.io/rockpaperscissorsgame/'
-        }
       ],
     },
     {
       images: [
         {
+          title: 'Rock-Paper-Scissors',
+          path: './rockpaperscissors.png',
+          link: 'https://jestinrodriguez.github.io/rockpaperscissorsgame/'
+        },
+        {
           title: 'Bankist',
           path: './bankist.png',
           link: 'https://jestinrodriguez.github.io/bankist/'
         },
-        {
-          title: 'Pig Game',
-          path: './Piggame.png',
-          link: 'https://jestinrodriguez.github.io/pig-game/'
-        },
-        {
-          title: 'Rock-Paper-Scissors',
-          path: './rockpaperscissors.png',
-          link: 'https://jestinrodriguez.github.io/rockpaperscissorsgame/'
-        }
       ],
     },
   ],
