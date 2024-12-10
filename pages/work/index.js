@@ -29,7 +29,7 @@ const Work = () => {
                 initial="hidden"
                 animate="show"
                 exit="hidden"
-                className='mb-4 max-w-[400px] mx-auto lg:mx-0'>
+                className='hidden sm:block mb-4 max-w-[400px] mx-auto lg:mx-0'>
                 I've worked in <span className='text-accent'>various locations</span> and on <span className='text-accent'>diverse projects</span> throughout my career.
                 <br/>
                 In my free time, I create cool side-projects to improve my skills!

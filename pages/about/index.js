@@ -185,7 +185,7 @@ const About = () => {
             initial='hidden'
             animate='show'
             exit='hidden'
-            className='max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-6 px-2 xl:px-0'
+            className='hidden sm:block max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-6 px-2 xl:px-0'
           >
             My journey started with a single line of code. I was intrigued on how it worked and its endless possibilities.
             Fast-forward to today, having <span className='text-accent'>contributed</span> to multiple startups,
@@ -196,7 +196,7 @@ const About = () => {
             initial='hidden'
             animate='show'
             exit='hidden'
-            className='max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0'
+            className='hidden sm:block max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0'
           >
             Learn more about my <span className='text-accent'>journey!</span>
             {/* <WorkSlider/> */}

@@ -83,6 +83,20 @@ const workData = {
           link: 'https://jest-tesla-clone.netlify.app/#'
         },
         {
+          title: 'YC Directory',
+          path: './jcombinator.png',
+          link: 'https://jcombinator.vercel.app/'
+        },
+        {
+          title: 'Zentry',
+          path: './zentry.png',
+          link: 'https://awwwards-website-five.vercel.app/'
+        }
+      ],
+    },
+    {
+      images: [
+        {
           title: 'Krypt - Web 3.0',
           path: './krypt.png',
           link: 'https://krypt-jestinrodriguez.vercel.app/'
@@ -91,11 +105,7 @@ const workData = {
           title: 'Coinbase - Web 3.0',
           path: './coinbases.png',
           link: 'https://coinbase-jest.vercel.app/'
-        }
-      ],
-    },
-    {
-      images: [
+        },
         {
           title: 'Disney Plus Clone',
           path: './disney+.png',
@@ -105,17 +115,7 @@ const workData = {
           title: 'Forkify',
           path: './forkify.png',
           link: 'https://forkify-jestin.netlify.app/'
-        },
-        {
-          title: 'Mapty',
-          path: './mapty.png',
-          link: 'https://jestinrodriguez.github.io/mapty/'
-        },
-        {
-          title: 'Pig Game',
-          path: './Piggame.png',
-          link: 'https://jestinrodriguez.github.io/pig-game/'
-        },
+        }        
       ],
     },
     {
@@ -129,6 +129,16 @@ const workData = {
           title: 'Bankist',
           path: './bankist.png',
           link: 'https://jestinrodriguez.github.io/bankist/'
+        },
+        {
+          title: 'Mapty',
+          path: './mapty.png',
+          link: 'https://jestinrodriguez.github.io/mapty/'
+        },
+        {
+          title: 'Pig Game',
+          path: './Piggame.png',
+          link: 'https://jestinrodriguez.github.io/pig-game/'
         },
       ],
     },
