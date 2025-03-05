@@ -49,14 +49,14 @@ const workData = {
     {
       images: [
         {
+          title: 'Ticketer',
+          path: './ticketer.png',
+          link: 'https://ticketer-six.vercel.app/'
+        },
+        {
           title: 'Apple Iphone 15 Pro',
           path: './japple.png',
           link: 'https://j-apple.vercel.app/'
-        },
-        {
-          title: 'Medium Blog Clone',
-          path: './medium.png',
-          link: 'https://medium-1j9kcv4xr-jestinrodriguez.vercel.app/'
         },
         {
           title: 'Spotify Clone',
@@ -67,20 +67,15 @@ const workData = {
           title: 'Story Teller AI',
           path: './StoryTellerAI.png',
           link: 'https://www.youtube.com/watch?v=F1xSzr4Frro'
-        }
+        },
       ],
     },
     {
       images: [
         {
-          title: 'Movie Database',
-          path: './movie.png',
-          link: 'https://jest-moviedb.netlify.app/'
-        },
-        {
-          title: 'Tesla Clone',
-          path: './tesla.png',
-          link: 'https://jest-tesla-clone.netlify.app/#'
+          title: 'Medium Blog Clone',
+          path: './medium.png',
+          link: 'https://medium-1j9kcv4xr-jestinrodriguez.vercel.app/'
         },
         {
           title: 'YC Directory',
@@ -91,7 +86,12 @@ const workData = {
           title: 'Zentry',
           path: './zentry.png',
           link: 'https://awwwards-website-five.vercel.app/'
-        }
+        },
+        {
+          title: 'MovieDB',
+          path: './jmovie.png',
+          link: 'https://j-movie-blond.vercel.app/'
+        },
       ],
     },
     {
@@ -112,14 +112,19 @@ const workData = {
           link: 'https://disney-clone-ef31e.web.app/'
         },
         {
-          title: 'Forkify',
-          path: './forkify.png',
-          link: 'https://forkify-jestin.netlify.app/'
-        }        
+          title: 'Movie Database',
+          path: './movie.png',
+          link: 'https://jest-moviedb.netlify.app/'
+        },
       ],
     },
     {
       images: [
+        {
+          title: 'Tesla Clone',
+          path: './tesla.png',
+          link: 'https://jest-tesla-clone.netlify.app/#'
+        },
         {
           title: 'Rock-Paper-Scissors',
           path: './rockpaperscissors.png',
@@ -130,6 +135,15 @@ const workData = {
           path: './bankist.png',
           link: 'https://jestinrodriguez.github.io/bankist/'
         },
+        {
+          title: 'Forkify',
+          path: './forkify.png',
+          link: 'https://forkify-jestin.netlify.app/'
+        }        
+      ],
+    },
+    {
+      images: [
         {
           title: 'Mapty',
           path: './mapty.png',
